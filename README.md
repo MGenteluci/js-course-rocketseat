@@ -15,6 +15,13 @@ Módulo 3:
 * Local Storage
 
 
+Módulo 4:
+* Promises
+* Requisições com Ajax e Axios
 
-curso de: rocketseat
+
+
+curso oferecido por: rocketseat
+
+
 https://rocketseat.com.br/curso-javascript-basico-do-zero
